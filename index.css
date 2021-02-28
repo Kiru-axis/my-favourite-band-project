@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(163, 153, 154);
+    background-color: rgb(198, 202, 185);
     color: black;
     font-family: 'helvetica';
     font-weight: normal;
@@ -18,6 +18,9 @@ a:hover{
 }
 a:active{
     color: red;
+}
+a:visited{
+    color: yellow;
 }
 
 .container{
@@ -89,5 +92,19 @@ a:active{
     text-decoration-color: inherit;
     text-align-last: left;
     color: brown;
+    overflow: scroll;
 }
 
+ul{
+    color: rgb(4, 48, 83);
+    list-style: disc;
+    font-weight: initial;
+    font-family: fantasy;
+}
+
+p{
+    font-family: helvetica;
+    color: rgb(19, 2, 2);
+    font-weight: lighter;
+    text-decoration: initial;
+}
