@@ -7,7 +7,20 @@ body{
     padding: 0;
 }
 
-.container{e
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: white;
+}
+a:active{
+    color: red;
+}
+
+.container{
     width: 100%;
 }
 
@@ -52,5 +65,29 @@ body{
     padding: 10px;
     border-radius: 15px;
    
+}.categories h3{
+    font-weight: bolder;
+    color: purple;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.categories h4{
+    text-align: center;
+}
+
+.categories li{
+    text-align: center;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.categories p{
+    text-align: center;
+}
+#tracks{
+    text-decoration-color: inherit;
+    text-align-last: left;
+    color: brown;
 }
 
