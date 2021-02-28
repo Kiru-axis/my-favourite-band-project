@@ -97,4 +97,17 @@ categories{
     overflow: scroll;
 }
 
+ul{
+    color: rgb(4, 48, 83);
+    list-style: disc;
+    font-weight: initial;
+    font-family: fantasy;
+}
+
+p{
+    font-family: helvetica;
+    color: rgb(19, 2, 2);
+    font-weight: lighter;
+    text-decoration: initial;
+}
 
