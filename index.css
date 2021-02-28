@@ -80,3 +80,15 @@ categories{
     text-align: center;
 }
 
+.categories li{
+    text-align: center;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.categories p{
+    text-align: center;
+}
+
+
+
