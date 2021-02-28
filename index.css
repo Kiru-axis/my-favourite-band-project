@@ -36,5 +36,21 @@ body{
     border-width: 5px;
     border-style: groove;
     padding: 20px;
-    
 }
+
+
+.box-2{
+    border: 3px black groove;
+    padding: 20px;
+    margin: 0;
+    border-radius: 15px;
+}
+
+.categories{
+    border: 1px black dotted;
+    margin: 0;
+    padding: 10px;
+    border-radius: 15px;
+   
+}
+
