@@ -69,3 +69,14 @@ categories{
     border-radius: 15px;
 }
 
+.categories h3{
+    font-weight: bolder;
+    color: purple;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.categories h4{
+    text-align: center;
+}
+
