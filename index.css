@@ -90,5 +90,11 @@ categories{
     text-align: center;
 }
 
+#tracks{
+    text-decoration-color: inherit;
+    text-align-last: left;
+    color: brown;
+    overflow: scroll;
+}
 
 
