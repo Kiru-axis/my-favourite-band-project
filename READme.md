@@ -2,14 +2,14 @@
 Thank you for taking your time to read these document.
 
 ## Contents
-### Name of the band.
-### A photo of the whole band members.
-### Why i chose these band.
-### Brief history of the band.
-### The role of each member accompanied by a picture.
-### Albums.
-### My favourite tracks.  
-### link
+1 Name of the band.
+2 A photo of the whole band members.
+3 Why i chose these band.
+4 Brief history of the band.
+5 The role of each member accompanied by a picture.
+6 Albums.
+7 My favourite tracks.  
+8 link
 
 1 Name of the band
 Linkin Park
@@ -57,6 +57,6 @@ Brad Delson: Lead guitarist.
 * Lost in the echo
 * Crawling
 
-7 link
-[Link:](https://github.com/Kiru-axis/my-favourite-band-project.git)
+7 Link
+[url:](https://github.com/Kiru-axis/my-favourite-band-project.git)
 
