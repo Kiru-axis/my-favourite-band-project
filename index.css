@@ -14,3 +14,34 @@ a{
 
 a:hover{
     color: white;
+}
+
+a:active{
+    color: red;
+}
+
+a:visited{
+    color: yellow;
+}
+
+.container{
+    width: 100%;
+}
+
+.box-1 h1{
+    color: black;
+    text-align: center;
+    text-decoration: unset;
+    font-family: fantasy;
+    font-weight: 900;
+    font-style: bolder;
+    text-transform: unset;
+    font-stretch: extra-expanded;
+    word-spacing: 3em;
+    letter-spacing: 3em;
+    background-color: rgb(233, 223, 217);
+    border: 20px solid grey;
+    border-style: groove;
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
